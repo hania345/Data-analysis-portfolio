@@ -108,5 +108,5 @@ Author
 Hania Khalid Shariff
 Data Analyst | SQL | Power BI | Excel | Python
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourProfile
+- GitHub: https://github.com/hania345
+- LinkedIn: https://linkedin.com/in/hania-khalid-shariff
